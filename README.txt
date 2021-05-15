@@ -7,3 +7,4 @@ sometext here!
 some other text for test!
 
 some change on branch update!
+THIS IS GOING TO MAKE CONFLICT
